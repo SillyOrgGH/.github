@@ -1,2 +1,3 @@
-# Silly Org Codeberg mirror (GitHub).
-The name 'SOrg' on GitHub was not available, please send contributions to the repos on codeberg, not on these repos.
+# Silly Org (GitHub)
+> [!IMPORTANT]  
+> The Silly Org (SOrg) GitHub mirrors are no longer active or available, please [visit our organization on Codeberg instead](https://codeberg.org/SOrg).
